@@ -1,6 +1,3 @@
-<style>
-  *{ background-color: grey; }
-</style>
 <h1 align="center">Hey There! 👋 I am Nishant Sinha</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
 <img align="center" alt="Coding" width="1100" src="https://w0.peakpx.com/wallpaper/59/567/HD-wallpaper-web-designing-training-in-pune-web-design-web-design-training-in-pune-website-design-training-web-development-course-in-pune-web-development-training-in-india-website-design-training-in-india.jpg">
