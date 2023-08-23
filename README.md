@@ -11,8 +11,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/<a href="https://www.linkedin.com/in/nishant-sinha96089/">nishant96089<a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="<a href="https://www.linkedin.com/in/nishant-sinha96089/">nishant96089<a>" height="30" width="40" /></a>
-<a href="https://instagram.com/<a href="https://www.instagram.com/the_hulkster__/">the_hulkster__<a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="<a href="https://www.instagram.com/the_hulkster__/">the_hulkster__<a>" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nishant96089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant96089" height="30" width="40" /></a>
+<a href="https://instagram.com/the_hulkster__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_hulkster__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
