@@ -1,6 +1,6 @@
 <h1 align="center">Hey There! 👋 I am Nishant Sinha</h1>
 <h3 align="center">A passionate full Stack Web developer from India.</h3>
-<img align="center" alt="Coding" src="https://w0.peakpx.com/wallpaper/59/567/HD-wallpaper-web-designing-training-in-pune-web-design-web-design-training-in-pune-website-design-training-web-development-course-in-pune-web-development-training-in-india-website-design-training-in-india.jpg">
+<img align="center" alt="Coding" width="600" src="https://w0.peakpx.com/wallpaper/59/567/HD-wallpaper-web-designing-training-in-pune-web-design-web-design-training-in-pune-website-design-training-web-development-course-in-pune-web-development-training-in-india-website-design-training-in-india.jpg">
 <img align="right" alt="Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRldGwzMnI5b29kdDh3czN3anN6YmYyODFmZ3k4NHprYTI4aWZnMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant96089&label=Profile%20views&color=0e75b6&style=flat" alt="nishant96089" /> </p>
