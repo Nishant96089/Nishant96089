@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant96089&label=Profile%20views&color=0e75b6&style=flat" alt="nishant96089" /> </p>
 
-- 🌱 I’m currently learning **Backend Decelopment**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Java,HTML,CSS and Javascript**
 
